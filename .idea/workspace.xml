@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1b12b54-432e-4b21-9b4a-4955036e3288" name="Changes" comment="1">
-      <change afterPath="$PROJECT_DIR$/.idea/InfPrilozh.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab31/lib.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab31/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab31/test.py" afterDir="false" />
+    <list default="true" id="c1b12b54-432e-4b21-9b4a-4955036e3288" name="Changes" comment="1) Сделали 3-ю лабу">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -94,11 +87,20 @@
       <option name="project" value="LOCAL" />
       <updated>1728569321057</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="1) Сделали 3-ю лабу">
+      <option name="closed" value="true" />
+      <created>1728839543726</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1728839543726</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1" />
-    <option name="LAST_COMMIT_MESSAGE" value="1" />
+    <MESSAGE value="1) Сделали 3-ю лабу" />
+    <option name="LAST_COMMIT_MESSAGE" value="1) Сделали 3-ю лабу" />
   </component>
 </project>
