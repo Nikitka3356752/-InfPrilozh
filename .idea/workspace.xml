@@ -52,7 +52,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true"
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Никита/OneDrive/Documents/3 курс/Информатика в приложении к отрасли/lab31"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -95,7 +96,23 @@
       <option name="project" value="LOCAL" />
       <updated>1728839543726</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="1) Сделали 3-ю лабу">
+      <option name="closed" value="true" />
+      <created>1728840537417</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1728840537417</updated>
+    </task>
+    <task id="LOCAL-00005" summary="1) Сделали 3-ю лабу">
+      <option name="closed" value="true" />
+      <created>1728840548650</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1728840548650</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
